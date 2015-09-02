@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[anson's blog]]></title>
+  <link href="http://anson.github.io/atom.xml" rel="self"/>
+  <link href="http://anson.github.io/"/>
+  <updated>2015-09-02T23:33:43+08:00</updated>
+  <id>http://anson.github.io/</id>
+  <author>
+    <name><![CDATA[Anson Lin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
